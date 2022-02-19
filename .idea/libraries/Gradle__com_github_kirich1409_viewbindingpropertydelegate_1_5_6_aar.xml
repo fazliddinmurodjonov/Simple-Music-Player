@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kirich1409:viewbindingpropertydelegate:1.5.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f8aa64290f73156f48c3a398fddb7a60/transformed/jetified-viewbindingpropertydelegate-1.5.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8aa64290f73156f48c3a398fddb7a60/transformed/jetified-viewbindingpropertydelegate-1.5.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8aa64290f73156f48c3a398fddb7a60/transformed/jetified-viewbindingpropertydelegate-1.5.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirich1409/viewbindingpropertydelegate/1.5.6/802cdd97c245c7a055ea927eba36a3eb04090be0/viewbindingpropertydelegate-1.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
